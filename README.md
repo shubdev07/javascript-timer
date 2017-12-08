@@ -1,6 +1,6 @@
 # javascript-timer
-Simple Timer function made using javascript 
-Download the file and include in your HTML file.
+Simple Timer function made using javascript <br/>
+Download the script file and include in your HTML file.
 <h2>To run the timer simply call the timer function</h2>
 
   <h3>Syntax is <br/>
